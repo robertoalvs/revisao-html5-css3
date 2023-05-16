@@ -1,2 +1,56 @@
 @charset "UTF-8";
 
+
+body {
+
+    background-color: beige;
+    width: 900px;
+    height: 100vh;
+    float: left;
+}
+
+main {
+
+    width: 850px;
+    height: 100vh;
+    background-color: white;
+}
+
+
+header {
+
+    width: 850px;
+    height: 100px;
+    background-color: blueviolet;
+    
+}
+
+.sessao1 {
+
+    background-color: aqua;
+    width: 58%;
+    
+}
+
+.sessao2 {
+
+    background-color: chartreuse;
+    width: 58%;
+    float: left;
+}
+
+aside {
+
+    background-color: black;
+    width: 38%;
+    height: 300px;
+    float: right;
+    margin-right: 10px;
+}
+
+footer {
+    clear: both;
+    width: 800px;
+    height: 20px;
+    background-color: blue;
+}
